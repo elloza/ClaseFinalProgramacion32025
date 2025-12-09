@@ -24,7 +24,7 @@ name: Generar JavaDoc
 env:
   # Nombre de la carpeta donde está tu proyecto Maven
   # CAMBIA ESTO si tu carpeta tiene otro nombre
-  PROYECTO_MAVEN: proyectoprimero
+  PROYECTO_MAVEN: miprimerproyectomaven
 
 # ============================================================================
 # TRIGGERS (¿Cuándo se ejecuta?)
