@@ -3,7 +3,7 @@ package com.usal;
 
 /**
  * 
- * Esta clase es muy importante!
+ * Esta clase es muy importante! Y la documentación también!
  * 
  * 
  */
@@ -30,7 +30,7 @@ public class Persona {
         if(trozos.length != 2){
             throw new IllegalArgumentException("Parametros inválidos");
         } else{
-            return new Persona(personaString, personaString);
+            return new Persona(trozos[0], trozos[1]);
         }
 
     }
